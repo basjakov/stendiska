@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+
+ul
+{
+	list-style-type: none;
+	margin:0.5em;
+
+}
+
+.girls_img
+{
+	display: inline-block;
+	vertical-align: top;
+	max-width: 250px;
+}
+
+.name
+{
+	font-size: 25px;
+}
